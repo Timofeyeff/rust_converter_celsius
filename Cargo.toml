@@ -1,0 +1,7 @@
+[package]
+name = "converter_celsius"
+version = "0.1.0"
+authors = ["maks"]
+edition = "2018"
+
+[dependencies]
